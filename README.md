@@ -34,18 +34,18 @@ that I don't get to use very often.
 Some lofty ideas that I would like to get to eventually:
 
  - Create a GitHub site for this project.
- ..- Perhaps leverage that interface to install Bookmarklet versions of the snippets.
- ..- Just to learn about this functionality, because I've been wanting to do that.
+   - Perhaps leverage that interface to install Bookmarklet versions of the snippets.
+   - Just to learn about this functionality, because I've been wanting to do that.
  - Create a plugin for DevTools.  I'm all about those VI bindings.
- ..- I just googled it for the first time.
- ..- This guy did _[something][devtools-vim-bindings]_.  I'll have to check it out.
- ..- Several years ago there was a [feature request][chromium-feature-request]. 
- ..- "Supporting vi edit is a significant effort with very limited interest. Closing as won't fix.  - pfeldman@chromium.org"
- ...- Until this moment I didn't know I had a nemesis.
- ...- [Nemesis](https://www.google.com/search?q=pfeldman+chromium)
+   - I just googled it for the first time.
+   - This guy did _[something][devtools-vim-bindings]_.  I'll have to check it out.
+   - Several years ago there was a [feature request][chromium-feature-request].
+   - "Supporting vi edit is a significant effort with very limited interest. Closing as won't fix.  - pfeldman@chromium.org"
+     - Until this moment I didn't know I had a nemesis.
+     - [Nemesis](https://www.google.com/search?q=pfeldman+chromium)
  - Create a package.json
- ..- Testing entry point
- ..- Installation mechanism
+   - Testing entry point
+   - Installation mechanism
 
 
 [devtools-snippets]: https://developers.google.com/web/tools/chrome-devtools/snippets
