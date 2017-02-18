@@ -40,9 +40,11 @@ Some lofty ideas that I would like to get to eventually:
    - I just googled it for the first time.
    - This guy did _[something][devtools-vim-bindings]_.  I'll have to check it out.
    - Several years ago there was a [feature request][chromium-feature-request].
-   - "Supporting vi edit is a significant effort with very limited interest. Closing as won't fix.  - pfeldman@chromium.org"
-     - Until this moment I didn't know I had a nemesis.
-     - [Nemesis](https://www.google.com/search?q=pfeldman+chromium)
+
+   "Supporting vi edit is a significant effort with very limited interest. Closing as won't fix.  
+     -- pfeldman@chromium.org"
+
+   - [Nemesis](https://www.google.com/search?q=pfeldman+chromium)
  - Create a package.json
    - Testing entry point
    - Installation mechanism
