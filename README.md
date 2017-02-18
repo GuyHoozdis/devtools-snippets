@@ -7,17 +7,17 @@ Utilities and helpers for [Chrome DevTools][devtools-snippets].
 
 Chrome DevTools
 
- * [Keyboard Shortcuts][devtools-shortcuts]
- * [DevTools Snippets][devtools-snippets] - an alternative to [Bookmarklets][bookmarklets] and what got me started on this adventure.
- * [DevTools Plugins][devtools-plugins] - has someone already done VIM bindings?
- * [Web Starter Kit][devtools-web-starter-kit] - an opinionated boilerplate for web development.
- * [Polymer Starter Kit][devtools-polymer-starter-kit] - is a starting point for building apps using a drawer-based layout.
-
+ - [Keyboard Shortcuts][devtools-shortcuts]
+ - [DevTools Snippets][devtools-snippets] - an alternative to [Bookmarklets][bookmarklets] and what got me started on this adventure.
+ - [DevTools Plugins][devtools-plugins] - has someone already done VIM bindings?
+ - [Web Starter Kit][devtools-web-starter-kit] - an opinionated boilerplate for web development.
+ - [Polymer Starter Kit][devtools-polymer-starter-kit] - is a starting point for building apps using a drawer-based layout.
+ - [Integrating][devtools-integrating] with DevTools
 
 After I created this repo, I discovered these resources:
 
- * A [package][npm-distributed-snippets] of snippets distributed through NPM.
- * Just [some dudes snippets][some-dudes-snippets].
+ - A [package][npm-distributed-snippets] of snippets distributed through NPM.
+ - Just [some dudes snippets][some-dudes-snippets].
 
 
 ### Other browsers
@@ -50,13 +50,14 @@ Some lofty ideas that I would like to get to eventually:
    - Installation mechanism
 
 
+[bookmarklets]: https://en.wikipedia.org/wiki/Bookmarklet
+[chromium-feature-request]: https://bugs.chromium.org/p/chromium/issues/detail?id=111516
+[devtools-integrating]: https://developer.chrome.com/devtools/docs/integrating
+[devtools-plugins]: https://developer.chrome.com/extensions/devtools
+[devtools-polymer-starter-kit]: https://developers.google.com/web/tools/polymer-starter-kit/
 [devtools-snippets]: https://developers.google.com/web/tools/chrome-devtools/snippets
 [devtools-shortcuts]: https://developers.google.com/web/tools/chrome-devtools/shortcuts
-[devtools-plugins]: https://developer.chrome.com/extensions/devtools
+[devtools-vim-bindings]: https://github.com/mllg/vim-devtools-plugin
 [devtools-web-starter-kit]: https://developers.google.com/web/tools/starter-kit/
-[devtools-polymer-starter-kit]: https://developers.google.com/web/tools/polymer-starter-kit/
 [npm-distributed-snippets]: https://github.com/bahmutov/code-snippets
 [some-dudes-snippets]: https://github.com/bgrins/devtools-snippets
-[bookmarklets]: https://en.wikipedia.org/wiki/Bookmarklet
-[devtools-vim-bindings]: https://github.com/mllg/vim-devtools-plugin
-[chromium-feature-request]: https://bugs.chromium.org/p/chromium/issues/detail?id=111516
