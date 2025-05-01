@@ -12,8 +12,8 @@
 
 
 (function() {
-    var jQueryVersion = '3.1.1';
-    var loDashVersion = '4.17.4';
+    var jQueryVersion = '3.7.1';
+    var loDashVersion = '4.17.21';
 
     var jq = document.createElement('script');
     jq.src = `https://cdnjs.cloudflare.com/ajax/libs/jquery/${jQueryVersion}/jquery.min.js`;
